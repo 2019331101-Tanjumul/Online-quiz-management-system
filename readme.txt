@@ -1,33 +1,25 @@
-Free Download Source Code "oq"
+1. Use XAMPP and connect to mysql and apache.
 
-FIRST Download
+2.Use VScode or else. 
 
-1.XAMPP
+4. unzip or clone the repo from my link. 
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+5. Extract the file and make a new file in C:\xampp\htdocs folder. 
 
-3"oq"
+6.Open PHPMyAdmin (http://localhost/phpmyadmin/ your file name here)
 
-4. Download the zip file/ download winrar
+7. Create a database with name quiz_db or else
 
-5. Extract the file and copy "oq" folder
+8. Import quiz_db.sql file in your database.
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+6. Run the script http:/your file name in the C:\xampp\htdocs folder. 
+7.Run the script http:/your file name
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name quiz_db
-
-6. Import quiz_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http:/oq
 **LOGIN DETAILS** 
 
 Admin
 user: admin
 pass: admin123
 
-create your own student
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+create your own student account and have fun. 
+Follow me for more opensource projects.
