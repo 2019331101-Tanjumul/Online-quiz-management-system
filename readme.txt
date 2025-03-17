@@ -22,4 +22,4 @@ user: admin
 pass: admin123
 
 create your own student account and have fun. 
-Follow me for more opensource projects.
+
